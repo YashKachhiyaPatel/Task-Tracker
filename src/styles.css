@@ -1,1 +1,28 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    border: 1px solid grey;
+    align-items: center;
+    width: 60%;
+}
+.btn{
+    background-color:black;
+    color: white;
+    border: 1px solid green;
+    outline: none;
+    border-radius: 8px;
+    width: 55px;
+    height: 35px;
+}
+.form-contrl{
+    margin: 20px 0;
+}
+.form-contrl label{
+    display: block;
+}
