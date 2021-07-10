@@ -20,9 +20,9 @@ body{
     width: 55px;
     height: 35px;
 }
-.form-contrl{
+.form-group{
     margin: 20px 0;
 }
-.form-contrl label{
+.form-group label{
     display: block;
 }
